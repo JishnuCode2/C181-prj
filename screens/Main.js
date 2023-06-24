@@ -93,18 +93,12 @@ const styles = StyleSheet.create({
     backgroundColor: "#E7F2F8",
     flexDirection: "row"
   },
-  appIcon: {
-    width: 50,
-    height: 50,
-    borderRadius: 25
-  },
   appName: {
     fontSize: 25
   },
   middleContainer: { flex: 0.67 },
   lowerContainer: {
     flex: 0.2,
-    backgroundColor: "#E7F2F8"
   },
   ltContainer: {
     flex: 0.3,
@@ -115,6 +109,5 @@ const styles = StyleSheet.create({
     flex: 0.7,
     justifyContent: "center",
     alignItems: "center",
-    backgroundColor: "#EFE7BC"
   }
 });
